@@ -1,0 +1,12 @@
+# ninja log v6
+7	669	7704456970226397	LimitedCampus_autogen/timestamp	cea00c0248e3fdce
+7	669	7704456970226397	LimitedCampus_autogen/mocs_compilation.cpp	cea00c0248e3fdce
+7	669	7704456970226397	C:/Users/elias/Documents/GitHub/super-duper-palm-tree/LimitedCampus/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/LimitedCampus_autogen/timestamp	cea00c0248e3fdce
+7	669	7704456970226397	C:/Users/elias/Documents/GitHub/super-duper-palm-tree/LimitedCampus/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/LimitedCampus_autogen/mocs_compilation.cpp	cea00c0248e3fdce
+673	734	7704456971523099	LimitedCampus_autogen/EWIEGA46WW/qrc_resources.cpp	76537eb8e1b749f
+673	734	7704456971523099	C:/Users/elias/Documents/GitHub/super-duper-palm-tree/LimitedCampus/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/LimitedCampus_autogen/EWIEGA46WW/qrc_resources.cpp	76537eb8e1b749f
+742	846	7704456971772439	CMakeFiles/LimitedCampus.dir/LimitedCampus_autogen/EWIEGA46WW/qrc_resources.cpp.obj	938bdfd7e749ab39
+734	2921	7704456971682677	CMakeFiles/LimitedCampus.dir/LimitedCampus_autogen/mocs_compilation.cpp.obj	63bf30d524c5536d
+739	2982	7704456971732545	CMakeFiles/LimitedCampus.dir/mainwindow.cpp.obj	8d528ed9695c84ab
+737	3058	7704456971712597	CMakeFiles/LimitedCampus.dir/main.cpp.obj	2af24a9c8bd7b0cc
+3058	3230	7704456994928542	LimitedCampus.exe	75ce5e756cd452e3
