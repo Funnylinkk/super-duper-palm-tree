@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "LimitedCampus::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-LimitedCampus-Debug-324491d93306a215de84.json",
+					"jsonFile" : "target-LimitedCampus-Debug-5540914af9dc00098aa4.json",
 					"name" : "LimitedCampus",
 					"projectIndex" : 0
 				},
@@ -68,8 +68,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/elias/Documents/GitHub/super-duper-palm-tree/LimitedCampus/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
-		"source" : "C:/Users/elias/Documents/GitHub/super-duper-palm-tree/LimitedCampus"
+		"build" : "C:/Users/lucas/Documents/GitHub/super-duper-palm-tree/LimitedCampus/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/lucas/Documents/GitHub/super-duper-palm-tree/LimitedCampus"
 	},
 	"version" : 
 	{
