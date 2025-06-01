@@ -1,5 +1,5 @@
-C:/Users/elias/Documents/LimitedCampus/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/LimitedCampus_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/elias/Documents/LimitedCampus/mainwindow.h \
-  C:/Users/elias/Documents/LimitedCampus/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/LimitedCampus_autogen/moc_predefs.h \
+C:/Users/elias/Documents/GitHub/super-duper-palm-tree/LimitedCampus/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/LimitedCampus_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/elias/Documents/GitHub/super-duper-palm-tree/LimitedCampus/mainwindow.h \
+  C:/Users/elias/Documents/GitHub/super-duper-palm-tree/LimitedCampus/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/LimitedCampus_autogen/moc_predefs.h \
   C:/Qt/6.9.0/mingw_64/include/QtCore/q17memory.h \
   C:/Qt/6.9.0/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.9.0/mingw_64/include/QtCore/q20iterator.h \

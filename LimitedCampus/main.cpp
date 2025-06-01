@@ -3,8 +3,11 @@
 #include <QApplication>
 #include <QPushButton>
 #include <QVBoxLayout>
+#include <QHBoxLayout>
 #include <QWidget>
 #include <QLabel>
+#include <QPixmap>
+
 
 struct Student {
 
@@ -13,29 +16,22 @@ struct Student {
     std::vector<int> grades;
 };
 
-#include <QApplication>
-#include <QWidget>
-#include <QVBoxLayout>
-#include <QHBoxLayout>
-#include <QLabel>
-#include <QPixmap>
-
 int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
 
     QWidget window;
-    window.setWindowTitle("Banner with Logo");
+    window.setWindowTitle("Limited Campus");
 
     QWidget *banner = new QWidget;
     banner->setFixedHeight(60);
     banner->setStyleSheet("background-color: green;");
 
     QHBoxLayout *bannerLayout = new QHBoxLayout;
-    bannerLayout->setContentsMargins(10, 5, 10, 5); // optional padding
+    bannerLayout->setContentsMargins(10, 5, 10, 5);
 
     QLabel *logoLabel = new QLabel;
-    QPixmap logoPixmap(":/logo.png"); // Use full path if not using resources
-    logoLabel->setPixmap(logoPixmap.scaled(40, 40, Qt::KeepAspectRatio, Qt::SmoothTransformation));
+    QPixmap logoPixmap(":/logo.png");
+    logoLabel->setPixmap(logoPixmap.scaled(90, 90, Qt::KeepAspectRatio, Qt::SmoothTransformation));
     bannerLayout->addWidget(logoLabel);
 
     banner->setLayout(bannerLayout);
@@ -45,7 +41,6 @@ int main(int argc, char *argv[]) {
 
     QVBoxLayout *mainLayout = new QVBoxLayout;
     mainLayout->setSpacing(0);
-    mainLayout->setMargin(0);
     mainLayout->addWidget(banner);
     mainLayout->addWidget(content);
 

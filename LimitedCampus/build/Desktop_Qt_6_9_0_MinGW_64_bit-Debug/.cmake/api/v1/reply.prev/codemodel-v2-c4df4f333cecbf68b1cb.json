@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-b725b87c565892ad87b9.json",
+					"jsonFile" : "directory-.-Debug-42ed795ed4c596496759.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "LimitedCampus::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-LimitedCampus-Debug-90fad62f8b8a24a3faec.json",
+					"jsonFile" : "target-LimitedCampus-Debug-ca97782a977dc6813967.json",
 					"name" : "LimitedCampus",
 					"projectIndex" : 0
 				},
@@ -68,8 +68,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/elias/Documents/LimitedCampus/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
-		"source" : "C:/Users/elias/Documents/LimitedCampus"
+		"build" : "C:/Users/elias/Documents/GitHub/super-duper-palm-tree/LimitedCampus/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/elias/Documents/GitHub/super-duper-palm-tree/LimitedCampus"
 	},
 	"version" : 
 	{
