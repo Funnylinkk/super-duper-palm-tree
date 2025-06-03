@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6a2ea162d6af41e9f670.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LimitedCampus",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LimitedCampus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LimitedCampus-Debug-e7d38ac99feef4e2b712.json",
+					"name" : "LimitedCampus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LimitedCampus_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LimitedCampus_autogen-Debug-8b2b465616aa9b261832.json",
+					"name" : "LimitedCampus_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LimitedCampus_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LimitedCampus_autogen_timestamp_deps-Debug-40926b69d9a22abd9c9b.json",
+					"name" : "LimitedCampus_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/elias/Documents/GitHub/super-duper-palm-tree/LimitedCampus/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/elias/Documents/GitHub/super-duper-palm-tree/LimitedCampus"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
